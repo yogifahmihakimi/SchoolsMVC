@@ -1,0 +1,9 @@
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\bin\Debug\netcoreapp1.1\SchoolsMVC.deps.json
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\bin\Debug\netcoreapp1.1\SchoolsMVC.runtimeconfig.json
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\bin\Debug\netcoreapp1.1\SchoolsMVC.runtimeconfig.dev.json
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\bin\Debug\netcoreapp1.1\SchoolsMVC.dll
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\bin\Debug\netcoreapp1.1\SchoolsMVC.pdb
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\obj\Debug\netcoreapp1.1\SchoolsMVC.csprojResolveAssemblyReference.cache
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\obj\Debug\netcoreapp1.1\SchoolsMVC.AssemblyInfo.cs
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\obj\Debug\netcoreapp1.1\SchoolsMVC.dll
+D:\Research\.Net Core\SchoolsMVC\SchoolsMVC\obj\Debug\netcoreapp1.1\SchoolsMVC.pdb
