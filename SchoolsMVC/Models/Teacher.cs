@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 
 namespace SchoolsMVC.Models
 {
-    public class User
+    public class Teacher
     {
-        //DBSet 
+        public int ID { get; set; }
+        public int NIP { get; set; }
+        public string Name { get; set; }
     }
 }
